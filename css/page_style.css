@@ -1,0 +1,32 @@
+body, html{
+    text-align:center;
+    height:100%;
+    margin:0px;
+    background-color:rgba(111, 145, 210, 0.502)
+}
+nav li{
+    display:inline;
+    margin:10px;
+}
+
+nav ul{
+    background-color: darkred;
+
+}
+
+nav{
+    display:block;
+    color:white;
+}
+
+nav a{
+    color:burlywood;
+    text-decoration:none;
+}
+
+nav a:hover{
+    color:white;
+}
+
+
+
